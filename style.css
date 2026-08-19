@@ -35,7 +35,7 @@ main {
 }
 
 .card h2 {
-    margin-bottom: 15px;
+    margin-bottom: 18px;
 }
 
 .card p {
@@ -43,7 +43,7 @@ main {
 }
 
 button {
-    background-color: #4a90e2;
+    background-color: #021b38;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -52,7 +52,7 @@ button {
 }
 
 button:hover {
-    background-color: #357abd;
+    background-color: #578bbe;
 }
 
 footer {
@@ -61,3 +61,5 @@ footer {
     background-color: #333;
     color: white;
 }
+
+<p>"the code is modified"</p>
